@@ -31,7 +31,7 @@ class App extends React.Component {
         </p>
         <div>
           {username ? (
-            <h1>{`Hello ${username}`}</h1>
+            <h1>{`Hello!  ${username}`}</h1>
           ) : (
             <h1>Loading.. please wait!</h1>
           )}

@@ -13,6 +13,6 @@
 3. yarn add express
 4. @babel/node @babel/core @bable/cli @babel/preset-env 설치
 5. server/server.js 생성
-6. config/webpack.config.dev.js 수정
-7. package.json에 proxy 추가
+6. config/webpack.config.dev.js 수정 (513번 라인 devServer)
+7. package.json에 proxy 추가 (package.json 맨 밑)
 8. 연동 테스트를 위한 app.js 수정
